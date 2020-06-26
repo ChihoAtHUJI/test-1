@@ -5,4 +5,4 @@ interesting
 
 hmm
 
-intruducing repositery
+intruducing repository
